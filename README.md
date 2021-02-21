@@ -1,4 +1,4 @@
-# Structured Learning Language (SLL)
+# Structured Learning Language (SLL) v0.1.0
 Native machine learning in SQL
 
 ## Getting started
